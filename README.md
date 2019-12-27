@@ -8,6 +8,8 @@ An application designed to keep the user's personal information secure. The purp
 You can download it from this [link](https://drive.google.com/open?id=1n5NW1aI16fm3PrH8aCmOQFzPG0NL1sZE)..
 
 Application's screenshots:
+\n
+
 ![Presentation](https://github.com/BruceGliff/PasswordApplication/blob/master/Present/img/Login_Screen.png "Login screen")
 ![Presentation](https://github.com/BruceGliff/PasswordApplication/blob/master/Present/img/Register_Screen.png "Register screen")
 ![Presentation](https://github.com/BruceGliff/PasswordApplication/blob/master/Present/img/Main_Screen.png "Main screen")
